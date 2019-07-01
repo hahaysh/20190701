@@ -1,2 +1,2 @@
 1.
-git clone?https://github.com/MicrosoftLearning/10979-MicrosoftAzureFundamentals/
+git clone https://github.com/MicrosoftLearning/10979-MicrosoftAzureFundamentals/
