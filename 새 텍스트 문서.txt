@@ -1,2 +1,4 @@
 1.
 git clone https://github.com/MicrosoftLearning/10979-MicrosoftAzureFundamentals/
+2. 
+https://github.com/hahaysh/10979-MicrosoftAzureFundamentals
